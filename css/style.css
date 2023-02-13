@@ -6,12 +6,18 @@ nav {
     background-color: #2c3e50 ;
 }
 
+
+.footer-mid {
+    background-color: #3a546d;
+}
+
 nav .container .row h4,
 nav .container .row .row .col {
     font-weight: bold;
 }
 
-header {
+header, 
+.main-bottom{
     background-color: #1abc9c;
 }
 
@@ -22,3 +28,22 @@ header {
     border-radius: 50%;
 }
 
+main .main-top,
+footer .footer-top {
+    color: #303030;
+}
+
+.first-img {
+    background-color: #ba4b63;
+    border-radius: 25px;
+}
+
+.main-top {
+    background-color: white;
+    height: 400px;
+}
+
+.send-btn {
+    background-color: #1abc9c;
+    border: 0;
+}
