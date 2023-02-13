@@ -16,8 +16,8 @@ header {
 }
 
 .immagine-test {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     background-color: blue;
     border-radius: 50%;
 }
