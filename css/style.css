@@ -41,10 +41,15 @@ footer .footer-top {
 
 .main-top {
     background-color: white;
-    height: 400px;
 }
 
 .send-btn {
     background-color: #1abc9c;
     border: 0;
+}
+
+
+.bg-colored {
+    background-color: red;
+    border-radius: 25px;
 }
